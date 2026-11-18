@@ -1,0 +1,6 @@
+{
+  "name": "نواة سايبر | منصة تعلم الأمن السيبراني",
+  "description": "منصة عربية تفاعلية لتعلم الأمن السيبراني والاختبار الاختراقي العملي من خلال غرف تحديات متدرجة وتنفيذ الأوامر خطوة بخطوة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
